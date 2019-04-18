@@ -1,0 +1,29 @@
+﻿- O que é o teste de software? Qual a melhor definição?`
+Teste de software é o processo de submeter o software sob uma avaliação com o intuido de 
+encontrar bugs, verificar a qualidade lógica do processo e previnir futuros gastos com manutenção.
+
+- O que é teste de unidade, integração e sistema?
+são testes focados em validar e testar as entradas e saidas do software. utilizado para identificar entradas válidas
+e inválidas no software.
+
+- O que é um caso de teste? Dê exemplos.
+Um caso de teste é a utilização de um script com a intenção de testar e validar um determinado setor do software.
+Um exemplo disso é a utilização de ferramentas como selenium para testar o software por sua interface.
+
+- Qual a diferença entre um teste manual e um teste automatizado?
+Testes manuais são amplamente utilizados em linha de produção por desenvolvedores para testar suas funcionalidades desenvolvidas, 
+porém, não possuem uma grande cobertura do código e não são muito confiaveis. Já testes automatizados são testes pensados e planejados 
+para executarem rotinas repetitivas de teste para otimizar o tempo de desenvolvimento.
+
+- Explique a diferença entre o teste caixa-branca e o teste caixa-preta.
+teste caixa branca são testes considerando um software transparente, onde podemos testa-lo por meio de suas linhas de código, analisando 
+cada lógica programada procurando por bugs. já teste caixa preta são teste que não possuem acesso a estrutura interna do software, 
+tendo que analisa-lo por fora, pela interface, por exemplo.
+
+- O que é um teste de regressão?
+O teste de regressão visa testar o software de maneira recursiva após o desenvolvimento de uma nova feature, onde procura-se identificar
+efeitos colaterais de uma mudança no código como um todo.
+
+- O que é um critério de teste? Cite exemplos.
+Critérios de teste são fatores que garantem a qualidade da execução do teste. Estes critérios definem quais são as entradas do teste e como devem
+ser as saídas para afirmarmos o sucesso ou o fracasso do teste.
